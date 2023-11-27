@@ -1,7 +1,6 @@
 import { Snake } from "./Snake";
-// import { Food } from "./Food";
 import { GameBoard } from "./GameBoard";
-import { Direction, Position } from "../types";
+import { Direction } from "../types";
 import { Food } from "./Food";
 import { Score } from "./Score";
 
